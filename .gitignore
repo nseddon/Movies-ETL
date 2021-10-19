@@ -5,6 +5,10 @@ config.py
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
